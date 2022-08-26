@@ -1,0 +1,27 @@
+.App {
+  /* text-align: center; */
+  display: flex;
+  margin-right: 80px;
+  margin: 40px;
+  padding: 20px;
+  margin-right: 40px;
+  box-sizing: border-box;
+  display: inline-block;
+  position: relative;
+  vertical-align: middle;
+  width: 85%;
+  border: 1px solid black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h4 {
+  display: flex;
+  margin: 20px;
+  padding: 10px;
+}
+label {
+  display: "flex";
+}
+Button {
+  margin-right: 10px;
+}
